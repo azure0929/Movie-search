@@ -1,7 +1,7 @@
 # 🎬 영화 검색
 
 > 배포 사이트  
-
+https://kdt5-yangjunyong-movie-search.netlify.app/#/
 
 <br><br>
 
