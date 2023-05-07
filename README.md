@@ -1,5 +1,4 @@
 ## 🎬 2차 과제 : API를 활용한 영화 검색 사이트 만들기
----
 <br>
 
 > 작성자 : 양준용 - 4조  
@@ -40,7 +39,6 @@
 <br><br>
 
 ## 화면구성
----
 |Home|
 |:--:|
 |![](https://user-images.githubusercontent.com/128226527/236654694-12a94401-bf96-4116-8e81-01eab8a9a0c7.png)|
@@ -52,7 +50,6 @@
 <br><br>
 
 ## 주요기능
----
 <br>
 
 ### 1. 한번의 검색으로 20개 출력   
@@ -103,14 +100,12 @@ const bigPoster = movie.Poster.replace('SX300', 'SX1000')
 <br><br>
 
 ## 어려웠던 점 
----
 - Intersection Observer API에 대한 지식 부족
 - 개봉연도로 검색할 수 있도록 하는 Js 문법 지식 부족 
 
 <br>
 
 ## 궁금한 점 
----
 - img 태그를 활용하여 onerror 속성을 통해 대체 이미지를 출력하는 방법 이외에 다른 방법이 있는지 궁금합니다.
 
 <!-- ### Home - Movie Information Introduce
